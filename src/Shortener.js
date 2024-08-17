@@ -3,6 +3,9 @@ import axios from 'axios';
 import InputForm from './components/InputForm';
 import ShortenedUrl from './components/ShortenedUrl';
 import URLHistory from './components/URLHistory';
+import { ToastContainer, toast } from 'react-toastify';
+import 'react-toastify/dist/ReactToastify.css';
+
 
 function Shortener() {
   const [shortUrl, setShortUrl] = useState('');
