@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/CodeClauseInternship_Link-Shortener/static/css/main.0aa6d285.css",
+    "main.js": "/CodeClauseInternship_Link-Shortener/static/js/main.d4e43b15.js",
+    "static/js/453.0bc0443b.chunk.js": "/CodeClauseInternship_Link-Shortener/static/js/453.0bc0443b.chunk.js",
+    "index.html": "/CodeClauseInternship_Link-Shortener/index.html",
+    "main.0aa6d285.css.map": "/CodeClauseInternship_Link-Shortener/static/css/main.0aa6d285.css.map",
+    "main.d4e43b15.js.map": "/CodeClauseInternship_Link-Shortener/static/js/main.d4e43b15.js.map",
+    "453.0bc0443b.chunk.js.map": "/CodeClauseInternship_Link-Shortener/static/js/453.0bc0443b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0aa6d285.css",
+    "static/js/main.d4e43b15.js"
+  ]
+}
